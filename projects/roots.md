@@ -1,0 +1,4 @@
+<h3>My House with Cosmic Roots</h3>
+<p>‘My house with cosmic roots’ is a project exploring the metaphysical home each person carries within themselves regardless of their whereabouts. It takes a look at the notion of home as a framework of patterns of behaviour, memories and unique personal experiences that shape a space of preservation in one’s mind. It is the space that one is left with when they move out of their first house, leave friends and family behind, replace their personal belongings and therefore, ‘a house with cosmic roots’ belongs to the realm of the daydreams.
+This metaphorical world consists of three main spaces, all positioned on a fictional map, which can be ‘visited’ through an installation of tablets - the sea and the well, signifying the un/subconsciousness, the garret, representing the consciousness, and the bed, where one finds utopian peace.
+</p>

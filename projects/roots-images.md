@@ -1,0 +1,12 @@
+<img src="images/roots/thebaddie.png" />
+<img src="images/roots/bed360.png" />
+<img src="images/roots/attic360.png" />
+<img src="images/roots/sea360.png" />
+<img src="images/roots/insidebed.png" />
+<img src="images/roots/insideattic2.png" />
+<img src="images/roots/insideattic1.png" />
+<img src="images/roots/insidesea.png" />
+<img src="images/roots/expo2.jpeg" />
+<img src="images/roots/expo4.png" />
+<img src="images/roots/expo1.jpeg" />
+<img src="images/roots/expo3.jpeg" />
